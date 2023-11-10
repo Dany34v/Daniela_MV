@@ -5,7 +5,7 @@
   </div>
   <div class="offcanvas-body bg-light">
   <div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action active bg-primary border-1" aria-current="true">
+  <a href="#" class="list-group-item list-group-item-action active bg-primary border-1 border-dark" aria-current="true">
     Sistemas
   </a>
   <a href="#" class="list-group-item list-group-item-action bg-primary border-1 border-dark mt-2">Mi perfil</a>
@@ -20,6 +20,6 @@
   <br>
   <a href="#" class="list-group-item list-group-item-action bg-primary border-1 border-dark">Cerrar sesion</a>
 <br>
-    <p clas="text-light text-center"><i>Bienvenido a riac</i></p>
+  <p clas="text-light text-center"><i>Bienvenido a Riac</i></p>
   </div>
 </div>
